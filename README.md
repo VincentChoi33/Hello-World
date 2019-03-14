@@ -17,3 +17,8 @@ then click a Create repository!
 Branching is the way to work on different versions of a repository at one time.
 
 You guys might have "master" branch already on the left middle upper side.
+
+Master branch is literally mater branch. 
+So, you can think it is as a summit version of your repository
+
+Thus, you can copy master branch to other branch 
