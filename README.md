@@ -6,7 +6,7 @@ to start
 ## Step 1 
 ### Create a Repository 
 
-after you guys log-in there is plus mark upper right of the site.
+after you guys log-in, there is a plus mark upper right of the site.
 
 fill the blanks on your own and check initialize this repository with a README box
 then click a Create repository!
@@ -16,10 +16,10 @@ then click a Create repository!
 
 Branching is the way to work on different versions of a repository at one time.
 
-You guys might have "master" branch already on the left middle upper side.
+You guys might already have "master" branch on the left middle upper side.
 
-Master branch is literally mater branch. 
-you can think it is as a summit version of your repository
+Master branch is literally a mater branch. 
+you can think it as a summit version of your repository
 
 So, you will need to copy master branch to other branch for experiment.
 
