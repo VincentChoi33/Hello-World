@@ -55,3 +55,16 @@ you’re proposing your changes and requesting that someone review and pull in y
 Pull requests show diffs, or differences, of the content from both branches. 
 
 The changes, additions, and subtractions are shown in green and red.
+
+Go to Pull requests menu and click a grenn New pull request button.
+
+see base and compare branches. 
+
+So, now you can merge your sub branch with master.
+
+## Step 5
+### edit and edit
+
+Let's make a beautiful git repository
+
+
