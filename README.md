@@ -46,13 +46,13 @@ Now, you have edited branch which is different from master branch
 ## Step 4
 ### Pull request
 
-Pull Requests are the heart of collaboration on GitHub. 
+Pull Requests is important for collaboration on GitHub. 
 
 When you open a pull request, 
 
 you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. 
 
-Pull requests show diffs, or differences, of the content from both branches. 
+Pull requests show differences, of the content from both branches. 
 
 The changes, additions, and subtractions are shown in green and red.
 
